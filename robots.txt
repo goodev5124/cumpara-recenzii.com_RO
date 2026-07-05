@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cumpara-recenzii.com/sitemap.xml
